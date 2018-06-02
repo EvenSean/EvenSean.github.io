@@ -1189,18 +1189,7 @@
   background-color: #3a3a3a;
 }
 
-.rightsidedressbottom {
-  bottom: 90px;
-  left: 183.5px;
-  background: transparent !important;
-  transform: rotate(444deg);
-  width: 263px;
-  height: 73px;
-  border: solid 1px #000;
-  border-color: #000 transparent transparent transparent;
-  border-radius: 50%/72px 1px 0 0;
 
-}
 
 .rightsidedresstop {
   bottom: 223px;
