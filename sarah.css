@@ -5,9 +5,7 @@
   height: 724px;
   background: white;
   border: 1px solid black;
-  background-image: url(person.jpg);
   background-size: 577px 725px;
-  opacity: 0.5;
 }
 
 .faceContainer {
