@@ -1287,3 +1287,29 @@
   border-color: #000 transparent transparent transparent;
   border-radius: 50%/34px 26px;
 }
+
+.righthand {
+  position: absolute;
+  height: 726px;
+  width: 358px;
+  top: 420px;
+  left: 380px;
+  transform: translateX(-45%) translateY(-58%);
+}
+
+.righthand div {
+  position: absolute;
+  background-color: #3a3a3a;
+}
+
+.righthandbottomleft {
+  bottom: 27px;
+  left: 188.5px;
+  background: transparent !important;
+  transform: rotate(461deg);
+  width: 115px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 1px 0 0;
+}
