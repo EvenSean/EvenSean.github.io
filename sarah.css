@@ -1546,3 +1546,15 @@
   border-radius: 50%/7px 7px 0 0;
 }
 
+.rightlittlefingerleftbottom {
+  background-color: transparent !important;
+  width: 15px;
+  height: 8px;
+  top: 376px;
+  left: 293px;
+  transform: rotate(75deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/0px 7px 0 0;
+}
+
