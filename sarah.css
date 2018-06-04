@@ -1313,3 +1313,39 @@
   border-color: #000000 transparent transparent transparent;
   border-radius: 50%/7px 1px 0 0;
 }
+
+.righthandtopleft {
+  bottom: 120px;
+  left: 285.5px;
+  background: transparent !important;
+  transform: rotate(270deg);
+  width: 81px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/1px 6px 0 0;
+}
+
+.righthandleftpalmbottom {
+  bottom: 170px;
+  left: 225.5px;
+  background: transparent !important;
+  transform: rotate(448deg);
+  width: 59px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/32px 6px 0 0;
+}
+
+.righthandleftpalmtop {
+  bottom: 236px;
+  left: 257.5px;
+  background: transparent !important;
+  transform: rotate(231deg);
+  width: 74px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/0px 19px 0 0;
+}
