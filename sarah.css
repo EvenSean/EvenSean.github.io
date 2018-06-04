@@ -1401,28 +1401,28 @@
 }
 
 .bangle1 {
-  bottom: 50px;
-  left: 272.5px;
-  background: transparent !important;
-  transform: rotate(351deg);
-  width: 97px;
-  height: 73px;
-  border: solid 1px #000000;
-  border-color: #000000 transparent transparent transparent;
-  border-radius: 50%/26px 15px 0 0;
+  bottom: 51px;
+    left: 271.5px;
+    background: transparent !important;
+    transform: rotate(351deg);
+    width: 95px;
+    height: 73px;
+    border: solid 1px #000000;
+    border-color: #000000 transparent transparent transparent;
+    border-radius: 50%/26px 15px 0 0;
 
 }
 
 .bangle2 {
-  bottom: 47px;
-  left: 273.5px;
-  background: transparent !important;
-  transform: rotate(351deg);
-  width: 95px;
-  height: 73px;
-  border: solid 1px #000000;
-  border-color: #000000 transparent transparent transparent;
-  border-radius: 50%/29px 15px 0 0;
+      bottom: 47px;
+    left: 272.5px;
+    background: transparent !important;
+    transform: rotate(351deg);
+    width: 94px;
+    height: 73px;
+    border: solid 1px #000000;
+    border-color: #000000 transparent transparent transparent;
+    border-radius: 50%/29px 15px 0 0;
 }
 
 .bangle3 {
