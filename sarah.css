@@ -1450,15 +1450,15 @@
 }
 
 .righthandtopright {
-  bottom: 258px;
-  left: 269.5px;
-  background: transparent !important;
-  transform: rotate(71deg);
-  width: 81px;
-  height: 73px;
-  border: solid 1px #000000;
-  border-color: #000000 transparent transparent transparent;
-  border-radius: 50%/10px 2px 0 0;
+      bottom: 260px;
+    left: 269.5px;
+    background: transparent !important;
+    transform: rotate(71deg);
+    width: 79px;
+    height: 73px;
+    border: solid 1px #000000;
+    border-color: #000000 transparent transparent transparent;
+    border-radius: 50%/10px 2px 0 0;
 }
 
 .rightlittlefingerright {
