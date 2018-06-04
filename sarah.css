@@ -1400,3 +1400,51 @@
   border-radius: 50%/3px 6px 0 0;
 }
 
+.bangle1 {
+  bottom: 50px;
+  left: 272.5px;
+  background: transparent !important;
+  transform: rotate(351deg);
+  width: 97px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/26px 15px 0 0;
+
+}
+
+.bangle2 {
+  bottom: 47px;
+  left: 273.5px;
+  background: transparent !important;
+  transform: rotate(351deg);
+  width: 95px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/29px 15px 0 0;
+}
+
+.bangle3 {
+  bottom: 95px;
+  left: 298.5px;
+  background: transparent !important;
+  transform: rotate(218deg);
+  width: 14px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 1px 0 0;
+}
+
+.bangle4 {
+  bottom: 98px;
+  left: 304.5px;
+  background: transparent !important;
+  transform: rotate(216deg);
+  width: 7px;
+  height: 73px;
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 1px 0 0;
+}
