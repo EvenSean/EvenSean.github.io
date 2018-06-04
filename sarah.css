@@ -1521,3 +1521,28 @@
   border-color: #000000 transparent transparent transparent;
   border-radius: 50%/7px 7px 0 0;
 }
+
+.rightlittlefingernailleft {
+  background-color: transparent !important;
+  width: 18px;
+  height: 8px;
+  top: 326px;
+  left: 304px;
+  transform: rotate(-65deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 7px 0 0;
+}
+
+.rightlittlefingernailright {
+  background-color: transparent !important;
+  width: 12px;
+  height: 8px;
+  top: 323px;
+  left: 310px;
+  transform: rotate(34deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 7px 0 0;
+}
+
