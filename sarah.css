@@ -1349,3 +1349,54 @@
   border-color: #000000 transparent transparent transparent;
   border-radius: 50%/0px 19px 0 0;
 }
+
+.lefthand {
+  position: absolute;
+  height: 726px;
+  width: 358px;
+  top: 420px;
+  left: 380px;
+  transform: translateX(-45%) translateY(-58%);
+}
+
+.lefthand div {
+  position: absolute;
+  background-color: #3a3a3a;
+}
+
+.lefthandelbow1 {
+  background-color: transparent !important;
+  width: 50px;
+  height: 8px;
+  top: 73px;
+  left: 184px;
+  transform: rotate(-47deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 7px 0 0;
+}
+
+.lefthandelbow2 {
+  background-color: transparent !important;
+  width: 19px;
+  height: 8px;
+  top: 60px;
+  left: 217px;
+  transform: rotate(-4deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.lefthandelbow3 {
+  background-color: transparent !important;
+  width: 19px;
+  height: 8px;
+  top: 53px;
+  left: 232px;
+  transform: rotate(174deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 6px 0 0;
+}
+
