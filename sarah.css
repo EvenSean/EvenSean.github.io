@@ -1558,3 +1558,256 @@
   border-radius: 50%/0px 7px 0 0;
 }
 
+.rightlittlefingerrightbottom {
+  background-color: transparent !important;
+  width: 19px;
+  height: 8px;
+  top: 372px;
+  left: 296px;
+  transform: rotate(258deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/5px 7px 0 0;
+}
+
+.ringfingerrightmiddle {
+  background-color: transparent !important;
+  width: 25px;
+  height: 8px;
+  top: 359px;
+  left: 284px;
+  transform: rotate(85deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 3px 0 0;
+}
+
+.ringfingerrighttop {
+  background-color: transparent !important;
+  width: 39px;
+  height: 8px;
+  top: 334px;
+  left: 286px;
+  transform: rotate(281deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 3px 0 0;
+}
+
+.ringfingertip {
+  background-color: transparent !important;
+  width: 21px;
+  height: 8px;
+  top: 310px;
+  left: 291px;
+  transform: rotate(78deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 8px 0 0;
+}
+
+.ringfingerbed {
+  background-color: transparent !important;
+  width: 23px;
+  height: 8px;
+  top: 307px;
+  left: 282px;
+  transform: rotate(132deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.ringfingerleft {
+  background-color: transparent !important;
+  width: 25px;
+  height: 8px;
+  top: 327px;
+  left: 275px;
+  transform: rotate(290deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.ringfingerbottom {
+  background-color: transparent !important;
+  width: 36px;
+  height: 8px;
+  top: 366px;
+  left: 264px;
+  transform: rotate(263deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+
+}
+
+.ringfingernailtop {
+  background-color: transparent !important;
+  width: 22px;
+  height: 8px;
+  top: 308px;
+  left: 284px;
+  transform: rotate(-65deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/6px 8px 0 0;
+}
+
+.ringfingernailleft {
+  background-color: transparent !important;
+  width: 8px;
+  height: 8px;
+  top: 304px;
+  left: 293px;
+  transform: rotate(35deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/6px 8px 0 0;
+}
+
+.middlefingermiddle {
+  background-color: transparent !important;
+  width: 28px;
+  height: 8px;
+  top: 359px;
+  left: 254px;
+  transform: rotate(279deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.middlefingertop {
+  background-color: transparent !important;
+  width: 18px;
+  height: 8px;
+  top: 324px;
+  left: 268px;
+  transform: rotate(301deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.middlefingerbed {
+  background-color: transparent !important;
+  width: 20px;
+  height: 8px;
+  top: 309px;
+  left: 273px;
+  transform: rotate(142deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.middlefingerleftnail {
+  background-color: transparent !important;
+  width: 22px;
+  height: 8px;
+  top: 309px;
+  left: 272px;
+  transform: rotate(-69deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/6px 8px 0 0;
+}
+
+.middlefingertopnail {
+  background-color: transparent !important;
+  width: 12px;
+  height: 8px;
+  top: 305px;
+  left: 280px;
+  transform: rotate(37deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/6px 8px 0 0;
+}
+
+.pole {
+  position: absolute;
+  height: 726px;
+  width: 358px;
+  top: 420px;
+  left: 380px;
+  transform: translateX(-45%) translateY(-58%);
+}
+
+.pole div {
+  position: absolute;
+  background-color: #3a3a3a;
+}
+
+.poletop {
+  background-color: transparent !important;
+  width: 162px;
+  height: 8px;
+  top: 77px;
+  left: 166px;
+  transform: rotate(90deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+}
+
+.leftarm {
+  background-color: transparent !important;
+  width: 83px;
+  height: 8px;
+  top: 195px;
+  left: 204px;
+  transform: rotate(97deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/6px 1px 0 0;
+}
+
+.leftpalm {
+  background-color: transparent !important;
+  width: 51px;
+  height: 8px;
+  top: 259px;
+  left: 221px;
+  transform: rotate(82deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.leftpalminner {
+  background-color: transparent !important;
+  width: 43px;
+  height: 8px;
+  top: 298px;
+  left: 237px;
+  transform: rotate(259deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/1px 4px 0 0;
+}
+
+.leftlittlefingertop {
+  background-color: transparent !important;
+  width: 47px;
+  height: 8px;
+  top: 323px;
+  left: 246px;
+  transform: rotate(214deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 9px 0 0;
+}
+
+.leftlittlefingerbottomright {
+  background-color: transparent !important;
+  width: 21px;
+  height: 8px;
+  top: 353px;
+  left: 263px;
+  transform: rotate(22deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 2px 0 0;
+}
