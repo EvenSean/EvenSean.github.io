@@ -2087,3 +2087,100 @@
   border-color: #000000 transparent transparent transparent;
   border-radius: 50%/8px 8px 0 0;
 }
+
+.leftmiddlefingernailtip {
+  background-color: transparent !important;
+  width: 15px;
+  height: 8px;
+  top: 431px;
+  left: 254px;
+  transform: rotate(-236deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 3px 0 0;
+}
+
+.leftmiddlefingernailleft {
+  background-color: transparent !important;
+  width: 18px;
+  height: 8px;
+  top: 425px;
+  left: 251px;
+  transform: rotate(-322deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 3px 0 0;
+}
+
+.leftmiddlefingernailbottomleft {
+  background-color: transparent !important;
+  width: 12px;
+  height: 8px;
+  top: 422px;
+  left: 248px;
+  transform: rotate(-353deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/9px 3px 0 0;
+}
+
+.leftmiddlefingernailbottomright {
+  background-color: transparent !important;
+  width: 11px;
+  height: 8px;
+  top: 423px;
+  left: 248px;
+  transform: rotate(-449deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/6px 5px 0 0;
+}
+
+.leftmiddlefingernailright {
+  background-color: transparent !important;
+  width: 27px;
+  height: 8px;
+  top: 432px;
+  left: 235px;
+  transform: rotate(-673deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 1px 0 0;
+}
+
+.leftindexfingerleft {
+  background-color: transparent !important;
+  width: 23px;
+  height: 8px;
+  top: 431px;
+  left: 233px;
+  transform: rotate(-661deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 2px 0 0;
+}
+
+.leftindexfingertip {
+  background-color: transparent !important;
+  width: 8px;
+  height: 8px;
+  top: 440px;
+  left: 245px;
+  transform: rotate(-979deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 4px 0 0;
+}
+
+.leftindexfingernailtip {
+  background-color: transparent !important;
+  width: 12px;
+  height: 8px;
+  top: 443px;
+  left: 240px;
+  transform: rotate(-236deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 1px 0 0;
+}
+
