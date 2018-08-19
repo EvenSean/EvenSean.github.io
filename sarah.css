@@ -1908,3 +1908,99 @@
   border-radius: 50%/9px 5px 0 0;
 }
 
+.leftringfingerbottomleft {
+  background-color: transparent !important;
+  width: 23px;
+  height: 8px;
+  top: 346px;
+  left: 236px;
+  transform: rotate(-121deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 2px 0 0;
+}
+
+.leftringfingerbottommiddle {
+  background-color: transparent !important;
+  width: 48px;
+  height: 8px;
+  top: 367px;
+  left: 244px;
+  transform: rotate(-141deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 2px 0 0;
+}
+
+.leftringfingertop {
+  background-color: transparent !important;
+  width: 16px;
+  height: 8px;
+  top: 390px;
+  left: 276px;
+  transform: rotate(62deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.leftringfingertopmiddle {
+  background-color: transparent !important;
+  width: 14px;
+  height: 8px;
+  top: 398px;
+  left: 277px;
+  transform: rotate(119deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 2px 0 0;
+}
+
+.leftringfingerrighttip {
+  background-color: transparent !important;
+  width: 6px;
+  height: 8px;
+  top: 401px;
+  left: 281px;
+  transform: rotate(197deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 2px 0 0;
+}
+
+.leftringfingerrighttop {
+  background-color: transparent !important;
+  width: 26px;
+  height: 8px;
+  top: 401px;
+  left: 255px;
+  transform: rotate(35deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 0px 0 0;
+}
+
+.leftringfingerrightmiddle {
+  background-color: transparent !important;
+  width: 11px;
+  height: 8px;
+  top: 387px;
+  left: 255px;
+  transform: rotate(220deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 0px 0 0;
+}
+
+.leftringfingerrightbottom {
+  background-color: transparent !important;
+  width: 21px;
+  height: 8px;
+  top: 384px;
+  left: 232px;
+  transform: rotate(39deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 0px 0 0;
+}
+
