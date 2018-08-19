@@ -2004,3 +2004,86 @@
   border-radius: 50%/2px 0px 0 0;
 }
 
+.leftringfingernailtop {
+  background-color: transparent !important;
+  width: 16px;
+  height: 8px;
+  top: 394px;
+  left: 274px;
+  transform: rotate(29deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 5px 0 0;
+}
+
+.leftringfingernailmiddle {
+  background-color: transparent !important;
+  width: 13px;
+  height: 8px;
+  top: 392px;
+  left: 267px;
+  transform: rotate(-21deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 6px 0 0;
+}
+
+.leftringfingernailbottom {
+  background-color: transparent !important;
+  width: 10px;
+  height: 8px;
+  top: 393px;
+  left: 267px;
+  transform: rotate(-90deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/9px 8px 0 0;
+}
+
+.leftmiddlefingerbottom {
+  background-color: transparent !important;
+  width: 12px;
+  height: 8px;
+  top: 380px;
+  left: 237px;
+  transform: rotate(256deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 0px 0 0;
+}
+
+.leftmiddlefingermiddle {
+  background-color: transparent !important;
+  width: 28px;
+  height: 8px;
+  top: 392px;
+  left: 237px;
+  transform: rotate(235deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 0px 0 0;
+}
+
+.leftmiddlefingertop {
+  background-color: transparent !important;
+  width: 28px;
+  height: 8px;
+  top: 415px;
+  left: 246px;
+  transform: rotate(51deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/3px 3px 0 0;
+}
+
+.leftmiddlefingertip {
+  background-color: transparent !important;
+  width: 17px;
+  height: 8px;
+  top: 428px;
+  left: 257px;
+  transform: rotate(116deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 8px 0 0;
+}
