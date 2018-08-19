@@ -1811,3 +1811,100 @@
   border-color: #000000 transparent transparent transparent;
   border-radius: 50%/2px 2px 0 0;
 }
+
+.leftlittlefingerbottomleft {
+  background-color: transparent !important;
+  width: 23px;
+  height: 8px;
+  top: 343px;
+  left: 237px;
+  transform: rotate(27deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 2px 0 0;
+}
+
+.leftlittlefingerbottommiddle {
+  background-color: transparent !important;
+  width: 11px;
+  height: 8px;
+  top: 341px;
+  left: 258px;
+  transform: rotate(198deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 2px 0 0;
+}
+
+.leftlittlefingertip {
+  background-color: transparent !important;
+  width: 11px;
+  height: 8px;
+  top: 344px;
+  left: 280px;
+  transform: rotate(55deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/4px 3px 0 0;
+}
+
+.leftlittlefingernailedge {
+  background-color: transparent !important;
+  width: 14px;
+  height: 8px;
+  top: 348px;
+  left: 279px;
+  transform: rotate(129deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 9px 0 0;
+}
+
+.leftlittlefingerbed {
+  background-color: transparent !important;
+  width: 14px;
+  height: 8px;
+  top: 346px;
+  left: 271px;
+  transform: rotate(-35deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 9px 0 0;
+}
+
+.leftlittlefingerside {
+  background-color: transparent !important;
+  width: 17px;
+  height: 8px;
+  top: 347px;
+  left: 276px;
+  transform: rotate(35deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 9px 0 0;
+}
+
+.leftinnerpalm {
+  background-color: transparent !important;
+  width: 21px;
+  height: 8px;
+  top: 352px;
+  left: 246px;
+  transform: rotate(291deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/7px 5px 0 0;
+}
+
+.leftlittletoringbridge {
+  background-color: transparent !important;
+  width: 8px;
+  height: 8px;
+  top: 338px;
+  left: 239px;
+  transform: rotate(277deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/9px 5px 0 0;
+}
+
