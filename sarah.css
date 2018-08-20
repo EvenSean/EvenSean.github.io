@@ -2184,3 +2184,112 @@
   border-radius: 50%/3px 1px 0 0;
 }
 
+.leftindexfingernailleft {
+  background-color: transparent !important;
+  width: 18px;
+  height: 8px;
+  top: 438px;
+  left: 234px;
+  transform: rotate(-322deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 3px 0 0;
+
+}
+
+.leftindexfingernailleftbottom {
+  background-color: transparent !important;
+  width: 8px;
+  height: 8px;
+  top: 437px;
+  left: 234px;
+  transform: rotate(-376deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 2px 0 0;
+}
+
+.leftindexfingernailrightbottom {
+  background-color: transparent !important;
+  width: 5px;
+  height: 8px;
+  top: 437px;
+  left: 236px;
+  transform: rotate(-440deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/8px 2px 0 0;
+}
+
+.leftindexfingernailright {
+  background-color: transparent !important;
+  width: 29px;
+  height: 8px;
+  top: 443px;
+  left: 219px;
+  transform: rotate(49deg);
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/5px 1px 0 0;
+}
+
+.leftindexfingertopcap {
+  background-color: transparent !important;
+  width: 6px;
+  height: 8px;
+  top: 427px;
+  left: 225px;
+  transform: rotate(-492deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 2px 0 0;
+}
+
+.leftindexfingermiddle {
+  background-color: transparent !important;
+  width: 26px;
+  height: 8px;
+  top: 419px;
+  left: 201px;
+  transform: rotate(56deg);
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 3px 0 0;
+}
+
+.leftindexfingermiddlecap {
+  background-color: transparent !important;
+  width: 6px;
+  height: 8px;
+  top: 403px;
+  left: 210px;
+  transform: rotate(-119deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/2px 2px 0 0;
+}
+
+.leftindexfingerbottom {
+  background-color: transparent !important;
+  width: 38px;
+  height: 8px;
+  top: 384px;
+  left: 181px;
+  transform: rotate(79deg);
+  border: solid 1px #000000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/0px 0px 0 0;
+}
+
+.leftindexfingerbottomcap {
+  background-color: transparent !important;
+  width: 22px;
+  height: 8px;
+  top: 355px;
+  left: 190px;
+  transform: rotate(-104deg);
+  border: solid 1px #000;
+  border-color: #000000 transparent transparent transparent;
+  border-radius: 50%/6px 7px 0 0;
+}
+
